@@ -7,12 +7,14 @@ layout: default
       {% if site.logo_header %}
         <img src="{{ site.logo_about | relative_url }}" height="90" alt="MAIGE Group logo">
       {% endif %}
+      {% comment %}
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
       {% else %}
         {{ site.title }}
       {% endif %}
+      {% endcomment %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>

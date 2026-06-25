@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: "blank" # the website title (if blank, full name will be used instead)
+title: "MAIGE Group" # the website title (if blank, full name will be used instead)
 logo_header: "assets/img/maige_logo_short.svg"
 logo_about: "assets/img/maige_logo_detail.svg"
 first_name: # You
