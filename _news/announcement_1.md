@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11-17 10:31:00+0200
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+[Welcome Gesa to the lab!](https://bsky.app/profile/brianfclarke.bsky.social/post/3m5sw3dzocc23)
