@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-06'
 papers:
   3WSEMXAAAAAJ:2osOgNQ5qMEC:
     citations: 29
@@ -18,7 +18,7 @@ papers:
     title: Isometries of optimal pseudo-Riemannian metrics
     year: '2011'
   3WSEMXAAAAAJ:LkGwnXOMwfcC:
-    citations: 27
+    citations: 28
     title: 'Bicycle: Intervention-based causal discovery with cycles'
     year: '2024'
   3WSEMXAAAAAJ:Se3iqnhoufwC:
@@ -34,7 +34,7 @@ papers:
     title: Model-based inference of RNA velocity modules improves cell fate prediction
     year: '2023'
   3WSEMXAAAAAJ:UebtZRa9Y70C:
-    citations: 13
+    citations: 14
     title: Predicting functional constraints across evolutionary timescales with phylogeny-informed genomic language models
     year: '2025'
   3WSEMXAAAAAJ:W7OEmFMy1HYC:
@@ -50,7 +50,7 @@ papers:
     title: Integration of variant annotations using deep set networks boosts rare variant association genetics
     year: '2023'
   3WSEMXAAAAAJ:YsMSGLbcyi4C:
-    citations: 30
+    citations: 31
     title: Integration of variant annotations using deep set networks boosts rare variant association testing
     year: '2024'
   3WSEMXAAAAAJ:_FxGoFyzp5QC:
