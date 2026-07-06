@@ -64,5 +64,23 @@ horizontal: false
   </div>
   {% endif %}
 {% endif %}
+
+
+<a id="Alumni" href="#Alumni">
+  <h2 class="category">Alumni</h2>
+</a>
+
+
 </div>
 
+| Name             | Position in group                |
+|:-----------------|:---------------------------------|
+| Marcel Mück      | Data engineer/Research scientist |
+| Lea Rühl         | Bachelor's student               |
+| Nicolas Toulouse | Bachelor's student               |
+| Letizia DePietri | Master's student                 |
+| Kayla Meyer      | Data scientist                   |
+| Felix Munzlinger | Data scientist                   |
+| Magnus Wahlberg  | Data engineer                    |
+| Lukas Adam       | Master's student                 |
+| Eva Holtkamp     | Master's student                 |
