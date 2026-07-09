@@ -106,7 +106,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project.html";
             },},{id: "projects-brian-clarke",
           title: 'Brian Clarke',
-          description: "",
+          description: "Group Leader",
           section: "Projects",handler: () => {
               window.location.href = "/projects/brian_clarke.html";
             },},{id: "projects-danai-vagiaki",
@@ -134,6 +134,11 @@ ninja.data = [{
           description: "Joint with Oliver Stegle",
           section: "Projects",handler: () => {
               window.location.href = "/projects/katharina_mikulik.html";
+            },},{id: "projects-kevin-domanegg",
+          title: 'Kevin Domanegg',
+          description: "Scientific Manager",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/kevin_domanegg.html";
             },},{id: "projects-magnus-wahlberg",
           title: 'Magnus Wahlberg',
           description: "",
@@ -169,6 +174,11 @@ ninja.data = [{
           description: "Joint with Oliver Stegle",
           section: "Projects",handler: () => {
               window.location.href = "/projects/rama_abdulhamid.html";
+            },},{id: "projects-sabine-blum",
+          title: 'Sabine Blum',
+          description: "Assistant",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sabine_blum.html";
             },},{id: "projects-stefanie-mantz",
           title: 'Stefanie Mantz',
           description: "Joint with Oliver Stegle",

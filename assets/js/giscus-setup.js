@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "maigelab/maigelab.github.io",
+    "data-repo": "maigegroup/maigegroup.github.io",
     "data-repo-id": "",
     "data-category": "",
     "data-category-id": "",
