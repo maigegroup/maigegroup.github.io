@@ -5,7 +5,7 @@ permalink: /team/
 <!-- description: A growing collection of your cool projects. -->
 nav: true
 nav_order: 3
-display_categories: [PI, Postdocs, PhD students]
+display_categories: ["", Postdocs, PhD students]
 horizontal: false
 ---
 

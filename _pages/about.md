@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 'Mechanistic AI in Genomics Group @ <a href="https://www.dkfz.de">German Cancer Research Center (DKFZ)</a>'
+subtitle: 'Mechanistic AI in Genomics Group @ <a href="https://www.dkfz.de">DKFZ (German Cancer Research Center))</a>'
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -18,17 +18,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
   
 profile:
-  align: right
-  image: dkfz_hauptgebaeude.jpg
+  align: center
+  image: group_jul_2026_2.jpg
   more_info: ""
 ---
 
+<!-- <img src="{{ "/assets/img/group_jul_2026.jpg" | relative_url }}""> -->
+
 We are a computational genomics group particularly interested in the application of AI and ML in a way that respects biological mechanisms and is both mathematically and statistically sound. We work with large-scale cohort data (population genetics, electronic health records) and cellular assays (single-cell omics and CRISPR perturbation assays).
 
-Our lab's goal is to gain clear biological insights from this complex, noisy and incomplete data. That's why our scientific motto is:
+Our group's goal is to gain clear biological insights from this complex, noisy and incomplete data. That's why our scientific motto is:
 
 _Train smarter models, not just larger ones._
 
 To do that, our team draws on our diverse backgrounds to analyze and model data, exploiting principles from biology, mathematics, statistics, and computational science.
 
-We emphasize scientific rigor and excellence, but just as importantly a positive and nurturing team spirit. For us, that means kindness and mutual respect. It also means an open, collaborative attitude both within our lab and towards our fellow scientists in other groups.
+We emphasize scientific rigor and excellence, but just as importantly a positive and nurturing team spirit. For us, that means kindness and mutual respect. It also means an open, collaborative attitude both within our group and towards our fellow scientists in other groups.
