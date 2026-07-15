@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-15'
 papers:
   3WSEMXAAAAAJ:2osOgNQ5qMEC:
     citations: 29
@@ -34,7 +34,7 @@ papers:
     title: Model-based inference of RNA velocity modules improves cell fate prediction
     year: '2023'
   3WSEMXAAAAAJ:UebtZRa9Y70C:
-    citations: 14
+    citations: 15
     title: Predicting functional constraints across evolutionary timescales with phylogeny-informed genomic language models
     year: '2025'
   3WSEMXAAAAAJ:W7OEmFMy1HYC:
@@ -50,7 +50,7 @@ papers:
     title: Integration of variant annotations using deep set networks boosts rare variant association genetics
     year: '2023'
   3WSEMXAAAAAJ:YsMSGLbcyi4C:
-    citations: 31
+    citations: 32
     title: Integration of variant annotations using deep set networks boosts rare variant association testing
     year: '2024'
   3WSEMXAAAAAJ:_FxGoFyzp5QC:
@@ -74,7 +74,7 @@ papers:
     title: Decompositions of the tensor products of irreducible sl (2)-modules in characteristic 3
     year: '2008'
   3WSEMXAAAAAJ:roLk4NBRz8UC:
-    citations: 33
+    citations: 34
     title: Cell2fate infers RNA velocity modules to improve cell fate prediction
     year: '2025'
   3WSEMXAAAAAJ:u-x6o8ySG0sC:
