@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-31'
 papers:
   3WSEMXAAAAAJ:2osOgNQ5qMEC:
     citations: 29
@@ -18,7 +18,7 @@ papers:
     title: Isometries of optimal pseudo-Riemannian metrics
     year: '2011'
   3WSEMXAAAAAJ:LkGwnXOMwfcC:
-    citations: 28
+    citations: 29
     title: 'Bicycle: Intervention-based causal discovery with cycles'
     year: '2024'
   3WSEMXAAAAAJ:Se3iqnhoufwC:
@@ -50,7 +50,7 @@ papers:
     title: Integration of variant annotations using deep set networks boosts rare variant association genetics
     year: '2023'
   3WSEMXAAAAAJ:YsMSGLbcyi4C:
-    citations: 32
+    citations: 33
     title: Integration of variant annotations using deep set networks boosts rare variant association testing
     year: '2024'
   3WSEMXAAAAAJ:_FxGoFyzp5QC:
@@ -74,7 +74,7 @@ papers:
     title: Decompositions of the tensor products of irreducible sl (2)-modules in characteristic 3
     year: '2008'
   3WSEMXAAAAAJ:roLk4NBRz8UC:
-    citations: 34
+    citations: 36
     title: Cell2fate infers RNA velocity modules to improve cell fate prediction
     year: '2025'
   3WSEMXAAAAAJ:u-x6o8ySG0sC:
