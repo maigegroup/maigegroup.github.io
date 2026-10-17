@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Danai Vagiaki
-description: Joint with Oliver Stegle
+<!-- description: Joint with Oliver Stegle -->
 img: assets/img/danai_vagiaki.jpg
 <!-- importance: 0 -->
 category: Postdocs

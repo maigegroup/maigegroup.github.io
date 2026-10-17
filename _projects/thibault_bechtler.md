@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thibault Bechtler
-description: Joint with Oliver Stegle
+<!-- description: Joint with Oliver Stegle -->
 img: assets/img/thibault_bechtler.jpg
 <!-- importance: 0 -->
 category: PhD students

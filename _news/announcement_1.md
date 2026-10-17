@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Welcome Gesa to the lab!](https://bsky.app/profile/brianfclarke.bsky.social/post/3m5sw3dzocc23)
+[Welcome Gesa to the group!](https://bsky.app/profile/brianfclarke.bsky.social/post/3m5sw3dzocc23)

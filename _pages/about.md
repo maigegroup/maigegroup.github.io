@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 'Mechanistic AI in Genomics Group @ <a href="https://www.dkfz.de">DKFZ (German Cancer Research Center))</a>'
+subtitle: 'Mechanistic AI in Genomics Group @ <a href="https://www.dkfz.de">DKFZ (German Cancer Research Center)</a>'
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Welcome Steffi to the lab!](https://bsky.app/profile/brianfclarke.bsky.social/post/3m5sw4keusk2c)
+[Welcome Steffi to the group!](https://bsky.app/profile/brianfclarke.bsky.social/post/3m5sw4keusk2c)

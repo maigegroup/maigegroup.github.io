@@ -1,3 +1,5 @@
+@Comment Make sure that "year" field is present for entries to display correctly
+
 @article{clarke_riemannian_2011,
   title           = {The {Riemannian} {L2} topology on the manifold of
                   {Riemannian} metrics},
@@ -176,55 +178,6 @@
   pages           = {209--242},
 }
 
-@article {Ye2025.09.21.677619,
-  author          = {Ye, Chengzhong and Benegas, Gonzalo and Albors, Carlos and
-                  Li, Jianan Canal and Prillo, Sebastian and Fields, Peter D.
-                  and Clarke, Brian and Song, Yun S.},
-  title           = {Predicting functional constraints across evolutionary
-                  timescales with phylogeny-informed genomic language models},
-  elocation-id    = {2025.09.21.677619},
-  year            = 2025,
-  doi             = {10.1101/2025.09.21.677619},
-  publisher       = {Cold Spring Harbor Laboratory},
-  abstract        = {Genomic language models (gLMs) have emerged as a powerful
-                  approach for learning genome-wide functional constraints
-                  directly from DNA sequences. However, standard gLMs adapted
-                  from natural language processing often require extremely large
-                  model sizes and computational resources, yet still fall short
-                  of classical evolutionary models in predictive tasks. Here, we
-                  introduce GPN-Star (Genomic Pretrained Network with Species
-                  Tree and Alignment Representation), a biologically grounded
-                  gLM featuring a phylogeny-aware architecture that leverages
-                  whole-genome alignments and species trees to model
-                  evolutionary relationships explicitly. Trained on alignments
-                  spanning vertebrate, mammalian, and primate evolutionary
-                  timescales, GPN-Star achieves state-of-the-art performance
-                  across a wide range of variant effect prediction tasks in both
-                  coding and non-coding regions of the human genome. Analyses
-                  across timescales reveal task-dependent advantages of modeling
-                  more recent versus deeper evolution. To demonstrate its
-                  potential to advance human genetics, we show that GPN-Star
-                  substantially outperforms prior methods in prioritizing
-                  pathogenic and fine-mapped GWAS variants; yields unprecedented
-                  enrichments of complex trait heritability; and improves power
-                  in rare variant association testing. Extending beyond humans,
-                  we train GPN-Star for five model organisms {\textendash} Mus
-                  musculus, Gallus gallus, Drosophila melanogaster,
-                  Caenorhabditis elegans, and Arabidopsis thaliana {\textendash}
-                  demonstrating the robustness and generalizability of the
-                  framework. Taken together, these results position GPN-Star as
-                  a scalable, powerful, and flexible new tool for genome
-                  interpretation, well suited to leverage the growing abundance
-                  of comparative genomics data.Competing Interest StatementThe
-                  authors have declared no competing interest.National
-                  Institutes of Health, R35-GM134922, 3P40-OD011102-24S1 7772},
-  URL             =
-                  {https://www.biorxiv.org/content/early/2025/09/21/2025.09.21.677619},
-  eprint          =
-                  {https://www.biorxiv.org/content/early/2025/09/21/2025.09.21.677619.full.pdf},
-  journal         = {bioRxiv}
-}
-
 @article{aivazidis_cell2fate_2025,
   title           = {Cell2fate infers {RNA} velocity modules to improve cell
                   fate prediction},
@@ -315,4 +268,49 @@
   langid          = {english},
   year            = 2026,
   journal         = {bioRxiv}
+}
+
+@article{yePredictingGenomewideFunctional2026,
+  title           = {Predicting Genome-Wide Functional Constraints with
+                  {{GPN-Star}}},
+  author          = {Ye, Chengzhong and Benegas, Gonzalo and Albors, Carlos and
+                  Li, Jianan Canal and Prillo, Sebastian and Fields, Peter D.
+                  and Clarke, Brian and Song, Yun S.},
+  year            = 2026,
+  date            = {2026-09-09},
+  journal         = {Nature},
+  doi             = {10.1038/s41586-026-11005-5},
+  url             = {https://www.nature.com/articles/s41586-026-11005-5},
+  urldate         = {2026-10-17},
+  abstract        = {Abstract Genomic language models have emerged as a powerful
+                  approach for learning genome-wide functional constraints
+                  directly from DNA sequences 1 . However, standard genomic
+                  language models adapted from natural language processing often
+                  require large model sizes and computational resources, yet
+                  still fall short of classical evolutionary models in
+                  predictive tasks 2–4 . Here we introduce a genomic pretrained
+                  network with species tree and alignment representations
+                  (GPN-Star), which is a biologically grounded genomic language
+                  model featuring a phylogeny-aware architecture that leverages
+                  whole-genome alignments and species trees to model
+                  evolutionary relationships explicitly. Trained on alignments
+                  spanning vertebrate, mammal and primate evolutionary
+                  timescales, GPN-Star achieves state-of-the-art performance
+                  across a wide range of variant effect prediction tasks in both
+                  coding and non-coding regions of the human genome. Analyses
+                  across timescales show task-dependent advantages of modelling
+                  more recent versus deeper evolution. To demonstrate its
+                  potential to advance human genetics, we show that GPN-Star
+                  substantially outperforms previous methods in prioritizing
+                  pathogenic and fine-mapped genome-wide association study
+                  variants, yields strong enrichments of complex trait
+                  heritability and improves power in rare variant association
+                  testing 5 . Extending beyond humans, we train GPN-Star for
+                  five model organisms— Mus musculus , Gallus gallus ,
+                  Drosophila melanogaster , Caenorhabditis elegans and
+                  Arabidopsis thaliana —demonstrating the robustness and
+                  generalizability of the framework. Taken together, these
+                  results position GPN-Star as a scalable, powerful and flexible
+                  tool for genome interpretation, well suited to leverage the
+                  growing abundance of comparative genomics data.},
 }

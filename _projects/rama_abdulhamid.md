@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rama Abdulhamid
-description: Joint with Oliver Stegle
+<!-- description: Joint with Oliver Stegle -->
 img: assets/img/rama_abdulhamid.jpg
 <!-- importance: 0 -->
 category: PhD students
