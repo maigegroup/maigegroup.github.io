@@ -49,11 +49,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-welcome-gesa-to-the-lab",
-          title: 'Welcome Gesa to the lab!',
+            },},{id: "news-welcome-gesa-to-the-group",
+          title: 'Welcome Gesa to the group!',
           description: "",
-          section: "News",},{id: "news-welcome-steffi-to-the-lab",
-          title: 'Welcome Steffi to the lab!',
+          section: "News",},{id: "news-welcome-steffi-to-the-group",
+          title: 'Welcome Steffi to the group!',
           description: "",
           section: "News",},{id: "news-check-out-our-preprint-on-single-cell-trans-eqtl-mapping-with-livi",
           title: 'Check out our preprint on single-cell trans-eQTL mapping with LIVI',
@@ -63,6 +63,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-brian-is-presenting-deeprvat-in-an-educational-session-at-eshg-on-sunday-morning",
           title: 'Brian is presenting DeepRVAT in an educational session at ESHG on Sunday morning...',
+          description: "",
+          section: "News",},{id: "news-welcome-giorgio-to-the-group",
+          title: 'Welcome Giorgio to the group!',
           description: "",
           section: "News",},{id: "projects-project-2",
           title: 'project 2',
@@ -111,7 +114,7 @@ ninja.data = [{
               window.location.href = "/projects/brian_clarke.html";
             },},{id: "projects-danai-vagiaki",
           title: 'Danai Vagiaki',
-          description: "Joint with Oliver Stegle",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dana_vagiaki.html";
             },},{id: "projects-gesa-voigt",
@@ -119,9 +122,14 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gesa_voigt.html";
+            },},{id: "projects-giorgio-bini",
+          title: 'Giorgio Bini',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/giorgio_bini.html";
             },},{id: "projects-jiawei-luo",
           title: 'Jiawei Luo',
-          description: "Joint with Oliver Stegle",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jiawei_luo.html";
             },},{id: "projects-joachim-seebass",
@@ -131,7 +139,7 @@ ninja.data = [{
               window.location.href = "/projects/joachim_seebass.html";
             },},{id: "projects-katharina-mikulik",
           title: 'Katharina Mikulik',
-          description: "Joint with Oliver Stegle",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/katharina_mikulik.html";
             },},{id: "projects-kevin-domanegg",
@@ -154,6 +162,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/marcel_mueck.html";
+            },},{id: "projects-mir-mikdad-mik-talpur",
+          title: 'Mir Mikdad (Mik) Talpur',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mir_mikdad_talpur.html";
             },},{id: "projects-bicycle",
           title: 'Bicycle',
           description: "Intervention-Based Causal Discovery with Cycles",
@@ -171,7 +184,7 @@ ninja.data = [{
               window.location.href = "/projects/project_livi.html";
             },},{id: "projects-rama-abdulhamid",
           title: 'Rama Abdulhamid',
-          description: "Joint with Oliver Stegle",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/rama_abdulhamid.html";
             },},{id: "projects-sabine-blum",
@@ -181,12 +194,12 @@ ninja.data = [{
               window.location.href = "/projects/sabine_blum.html";
             },},{id: "projects-stefanie-mantz",
           title: 'Stefanie Mantz',
-          description: "Joint with Oliver Stegle",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/stefanie_mantz.html";
             },},{id: "projects-thibault-bechtler",
           title: 'Thibault Bechtler',
-          description: "Joint with Oliver Stegle",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/thibault_bechtler.html";
             },},{
