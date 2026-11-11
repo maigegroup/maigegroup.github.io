@@ -25,4 +25,6 @@ Our group builds causal inference methods for reconstructing gene regulatory net
 
 ## Related publications
 
+Lindenhofer, D., Mikulik, K., Mantz, S., Jung, H., Ueltzhoeffer, K., Kueblbeck, M., Rueda-Gensini, L., Munoz-Verdu, A., Haas, J., Meder, B., Schraivogel, D., Mall, M., Huber, W., Pettet, A., Reddington, J., Clarke, B., Stegle, O., Steinmetz, L.M., 2026. Time-resolved single-cell screening reveals the dynamic regulatory architecture of human cardiogenesis. bioRxiv. DOI: [10.64898/2026.11.03.764059](https://doi.org/10.64898/2026.11.03.764059)
+
 Rohbeck, M., Clarke, B., Mikulik, K., Pettet, A., Stegle, O. & Ueltzhöffer, K., 2024. Bicycle: Intervention-Based Causal Discovery with Cycles, in: Proceedings of the Third Conference on Causal Learning and Reasoning, PMLR. [https://proceedings.mlr.press/v236/rohbeck24a.html](https://proceedings.mlr.press/v236/rohbeck24a.html)
